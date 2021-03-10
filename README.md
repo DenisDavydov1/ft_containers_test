@@ -1,7 +1,7 @@
 # ft_containers_test
 42 ft_containers project unit tester
 
-<img src="https://raw.githubusercontent.com/mandarin10101/ft_containers_test/main/screen.png" style="zoom:40%;" />
+<img src="https://raw.githubusercontent.com/mandarin10101/ft_containers_test/main/screen.png" style="zoom:10%;" />
 
 Instruction:
 
